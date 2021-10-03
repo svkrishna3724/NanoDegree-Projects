@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "75670978148",
+    "firebase_url": "https://worldnews24x7-e51b2.firebaseio.com",
+    "project_id": "worldnews24x7-e51b2",
+    "storage_bucket": "worldnews24x7-e51b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75670978148:android:50c43286ef74744e",
+        "android_client_info": {
+          "package_name": "com.vvitguntur.worldnews24x7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75670978148-0jnr8546b1sth0sjdvjbhoaaj4trodte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vvitguntur.worldnews24x7",
+            "certificate_hash": "e64be0f3296a45d93afbbb3d94fa77bf7607bc0d"
+          }
+        },
+        {
+          "client_id": "75670978148-jjv1k5rlia1n9jd46evuj0bglfmr136p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7UED3loE6cokN1-9oU-ax_G55ocTwj2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75670978148-jjv1k5rlia1n9jd46evuj0bglfmr136p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
